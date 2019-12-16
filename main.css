@@ -1,0 +1,35 @@
+.navbar-brand img {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.hit {
+    text-align: center;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.incre {
+    font-size: 2em;
+    color:white;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+a.incre {
+    border-radius: 2px;
+}
+#header {
+    margin-top: 15px 10px;
+    margin-bottom: 15px ;
+    background-color: darkgray;
+    margin: left 5px;
+    margin-right: 5px;
+}
+#head1{
+   background-color: darkgrey; 
+}
+
